@@ -7,3 +7,5 @@ Repositorio prueba
 Ejercicios de git
 
 !["Log de commits"](./img/log.png)
+
+!["Network"](./img/network.png)
