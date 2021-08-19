@@ -1,0 +1,2 @@
+#Para descargar el repositorio ingrese a esta ruta con un git clone 
+https://github.com/ftrejog/test-git.git
